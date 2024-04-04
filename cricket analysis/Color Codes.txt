@@ -1,0 +1,7 @@
+Cricket Analysis Color Codes -- 
+
+PG BG : #105959
+Containers / Shapes BG : #1D1D2E
+Containers and other elements : #D0CF1D
+Highlights : #E76B4C
+Visuals : #F0E36F
